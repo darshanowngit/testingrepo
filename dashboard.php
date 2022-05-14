@@ -1,7 +1,8 @@
 <?php
 
 
-echo "This is dashboard"
+echo "This is dashboard";
+echo "submit";
 
 
 
