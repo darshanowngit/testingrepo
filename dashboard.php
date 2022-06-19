@@ -6,7 +6,7 @@ echo "submit";
 echo "cancel";
 echo "yes";
 
-
+echo "This is the test of the dashboard";
 
 
 ?>
